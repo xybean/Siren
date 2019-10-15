@@ -1,0 +1,2 @@
+include ':app', ':siren'
+rootProject.name='SirenDemo'
